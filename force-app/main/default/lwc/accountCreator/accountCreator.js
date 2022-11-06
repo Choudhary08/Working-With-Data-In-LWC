@@ -15,4 +15,5 @@ export default class AccountCreator extends LightningElement {
         });
         this.dispatchEvent(toastEvent);
     }
+    // Edited this JS file to just differntiate with the older one.
 }
